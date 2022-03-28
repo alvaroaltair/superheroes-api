@@ -1,6 +1,6 @@
 <div align="center">
 
-#Superheroes API
+<h1>Superheroes API</h1>
 
 <h3>Languages and Tools</h3>
 <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
